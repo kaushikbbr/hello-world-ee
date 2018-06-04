@@ -94,20 +94,19 @@
 
 	<!-- Mule Dependencies -->
 	<dependencies>
-		<!-- Xml configuration 
+		<!-- Xml configuration
 		<dependency>
         	<groupId>com.mulesoft.muleesb</groupId>
 			<artifactId>mule-core-ee</artifactId>
 			<version>${mule.version}</version>
 			<scope>provided</scope>
-		</dependency> -->
-		<!-- Xml configuration 
+		</dependency> 
 		<dependency>
 			<groupId>com.mulesoft.muleesb.modules</groupId>
 			<artifactId>mule-module-spring-config-ee</artifactId>
 			<version>${mule.version}</version>
 			<scope>provided</scope>
-		</dependency>-->
+		</dependency> -->
 		<!-- Mule Transports -->
 		<dependency>
 			<groupId>org.mule.transports</groupId>
@@ -133,7 +132,7 @@
 			<artifactId>mule-transport-jms-ee</artifactId>
 			<version>${mule.version}</version>
 			<scope>provided</scope>
-		</dependency>-->
+		</dependency> -->
 		<dependency>
 			<groupId>org.mule.transports</groupId>
 			<artifactId>mule-transport-vm</artifactId>
@@ -188,8 +187,6 @@
             <layout>default</layout>
         </repository>
     </repositories>
-	
-	
 	
     <pluginRepositories>
         <pluginRepository>
