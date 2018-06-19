@@ -204,4 +204,13 @@
 	    </pluginRepository>
     </pluginRepositories>
 
+    <distributionManagement>
+        <repository>
+            <id>Nexus</id>
+            <name>Nexus Public Mirror</name>
+            <url>http://localhost:8081/nexus/content/groups/public</url>
+        </repository>
+    </distributionManagement>
+
+
 </project>
