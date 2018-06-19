@@ -54,7 +54,7 @@
 					</execution>
 				</executions>
 			</plugin>
-			<!-- Custom plugins is as below -->
+			<!-- Custom plugins added are below-->
 			<plugin>
 			  <groupId>org.apache.maven.plugins</groupId>
 			  <artifactId>maven-deploy-plugin</artifactId>
