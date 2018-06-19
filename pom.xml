@@ -71,7 +71,7 @@
 			    <configuration>
 			        <deploymentType>cloudhub</deploymentType>
 			         <!-- muleVersion is the runtime version as it appears on the CloudHub interface -->
-			        <muleVersion>3.8.5</muleVersion>
+			        <muleVersion>3.9.0</muleVersion>
 			        <username>M1045583</username>
 			        <password>Kashyap.7</password>
 			        <applicationName>hello-world-ee</applicationName>
